@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Справочник БНС</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="podrazdel">Подразделение</string>
+    <string name="job">Должность</string>
+    <string name="contacts">Телефоны:</string>
+    <string name="short_tel">Внутренний</string>
+    <string name="tel">Рабочий</string>
+    <string name="mobile">Мобильный</string>
+    <string name="e_mail">Почта</string>
+    <string name="fio">ФИО</string>
+    <string name="searchFIO">ФИО</string>
+    <string name="email">Почта</string>
+    <string name="p_number1">Внутренний</string>
+    <string name="p_number2">Рабочий</string>
+    <string name="p_number3">Мобильный</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="not_requied">Необязательное поле</string>
+</resources>
